@@ -1,0 +1,14 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING chrome
+ENTER
+DELAY 1000
+https://youareanidiot.cc/
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 500
+STRING You are genuinely an idiot.
