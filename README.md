@@ -1,4 +1,4 @@
-All Custom BAD USB Payloads Scripted With LOTS of Love and TIME from Brayden Parkhurst.
+All Custom BAD USB Payloads Scripted With LOTS of Love and TIME from Brayden <3.
 
 Please don't rip off my scripts and publish them or I will sue you and i will cry.
 
